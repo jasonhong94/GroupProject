@@ -1,0 +1,14 @@
+name: tutorial
+title: tutorial
+username:
+account: first-app
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4023489
+bundleId: 4513021
+url: https://first-app.shinyapps.io/tutorial/
+when: 1619252026.88204
+lastSyncTime: 1619252026.88204
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: TAn Sia Hong_Tutorial 3.pdf|Tutorial 1 Tan Sia Hong_17218626.docx|Tutorial 2 Sem1 2020.docx|Tutorial 3.docx|Tutorial 5 - EDA .docx|tutorial3.docx|tutorial3.pdf|tutorial3.R|tutorial4.pdf|tutorial4.Rmd|Tutorial5-tan sia hong/graph.pdf|Tutorial5-tan sia hong/tutorial5.html|Tutorial5-tan sia hong/tutorial5.pdf|Tutorial5-tan sia hong/tutorial5.Rmd|Tutorial5-tan sia hong.zip|tutorial5.Rmd

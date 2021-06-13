@@ -1,0 +1,13 @@
+name: house_price_project
+title: house_price_project
+username:
+account: first-app
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4217020
+bundleId: 4676851
+url: https://first-app.shinyapps.io/house_price_project/
+when: 1622796581.73331
+lastSyncTime: 1622796581.73331
+asMultiple: FALSE
+asStatic: FALSE
