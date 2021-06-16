@@ -5,9 +5,9 @@ account: first-app
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4217020
-bundleId: 4676851
+bundleId: 4721818
 url: https://first-app.shinyapps.io/house_price_project/
-when: 1622796581.73331
-lastSyncTime: 1622796581.73331
+when: 1623826020.79037
+lastSyncTime: 1623826020.79037
 asMultiple: FALSE
 asStatic: FALSE

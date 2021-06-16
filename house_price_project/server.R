@@ -7,7 +7,6 @@ library(plotly)
 library(dplyr)
 library(tidyr)
 library(magrittr)
-
 library(shinyjs)
 library(jsonlite)
 library(urltools)

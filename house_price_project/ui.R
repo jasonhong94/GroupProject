@@ -12,7 +12,7 @@ source("appParts.R")
 
 
 
-shinyUI(navbarPage(title = "Shniny App Project",
+shinyUI(navbarPage(title = "Property Pricing Predictor",
                    theme = "style/style.css",
                    footer = includeHTML("footer.html"),
                    fluid = TRUE, 
